@@ -1,4 +1,3 @@
-ReadMeWebsiteTest
 
 # <span style="color:Green;font-size:20px">OPSC6312 Ice Task</span>
 

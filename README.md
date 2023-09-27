@@ -1,5 +1,5 @@
 
-# <span style="color:Teal;font-size:20px">OPSC6312 GitHub Website</span>
+# <span style="color:Teal;font-size:20px">**OPSC6312 GitHub Website**</span>
 
 Open this page at <https://keely-ann.github.io/ReadMeWebsiteTest/>
 

@@ -1,5 +1,5 @@
 
-# <span style="color:Green;font-size:20px">OPSC6312 Ice Task</span>
+# <span style="color:Green;font-size:20px">OPSC6312 GitHub Pages Website</span>
 
 Open this page at <https://keely-ann.github.io/ReadMeWebsiteTest/>
 

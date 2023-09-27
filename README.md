@@ -1,6 +1,6 @@
-# ReadMeWebsiteTest
+ReadMeWebsiteTest
 
-<span style="color:Green;font-size:20px">An OPSC6312 Ice Task</span>
+# <span style="color:Green;font-size:20px">OPSC6312 Ice Task</span>
 
 Open this page at <https://keely-ann.github.io/ReadMeWebsiteTest/>
 
